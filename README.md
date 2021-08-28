@@ -6,7 +6,13 @@ Alternative color schemes for [Lightly theme style](https://github.com/Luwx/Ligh
 
 ### Lightly Grey glass
 
-![grey-glass-img](./grey-glass/ligthly-grey-grass-4.png)
+![grey-glass-img](./grey-glass/ligthly-grey-glass-4.png)
 
-![grey-glass-img](./grey-glass/ligthly-grey-grass-2.png)
+![grey-glass-img](./grey-glass/ligthly-grey-glass-2.png)
 
+### Lightly Blue glass
+*Inspired in Orchis Dark*
+
+![grey-glass-img](./blue-glass/ligthly-blue-glass-4.png)
+
+![grey-glass-img](./blue-glass/ligthly-blue-glass.png)
