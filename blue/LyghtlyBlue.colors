@@ -94,7 +94,7 @@ ForegroundVisited=0,188,212
 
 [Colors:Window]
 BackgroundAlternate=99,99,99
-BackgroundNormal=23,29,32,89
+BackgroundNormal=44,44,44
 DecorationFocus=176,176,176
 DecorationHover=106,106,106
 ForegroundActive=0,102,255
@@ -107,7 +107,7 @@ ForegroundPositive=34,161,87
 ForegroundVisited=139,74,176
 
 [General]
-Name=Lightly Blue Glass
+Name=Lightly Blue
 shadeSortColumn=true
 
 [KDE]
