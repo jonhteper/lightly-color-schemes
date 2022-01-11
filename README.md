@@ -22,9 +22,9 @@ Alternative color schemes for [Lightly theme style](https://github.com/Luwx/Ligh
 
 
 
-![ligthly-blue](/opt/Proyectos/lightly-color-schemes/blue/ligthly-blue.png)
+![ligthly-blue](./blue/ligthly-blue.png)
 
-![ligthly-blue-2](/opt/Proyectos/lightly-color-schemes/blue/ligthly-blue-2.png)
+![ligthly-blue-2](./blue/ligthly-blue-2.png)
 
 ## Installation
 
